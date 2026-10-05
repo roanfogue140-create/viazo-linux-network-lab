@@ -1,0 +1,28 @@
+========================================
+     VIAZO SERVER — SYSTEM INVENTORY
+========================================
+
+Hostname       : ip-172-31-45-108
+OS             : Ubuntu 26.04.1 LTS (Resolute Raccoon)
+Kernel         : 7.0.0-1006-aws
+Architecture   : x86_64
+
+CPU            : 2 vCPU
+CPU Model      : Intel Xeon Platinum 8259CL
+
+Interface      : ens5
+IP Address     : 172.31.45.108
+CIDR           : /20
+Gateway        : 172.31.32.1
+DNS            : 172.31.0.2
+DNS Domain     : eu-north-1.compute.internal
+
+RAM Total      : 908 MiB
+RAM Available  : 565 MiB
+
+Disk Total     : 6.7G
+Disk Used      : 2.8G
+Disk Available : 3.9G
+Disk Usage     : 42%
+
+Uptime         : 6 days
